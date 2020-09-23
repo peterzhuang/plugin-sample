@@ -1,0 +1,12 @@
+{
+    "parserOptions": {
+      "ecmaVersion": 2018
+    },
+    "rules": {
+        "my-eslint-rules/async-func-name": "warn",
+        "my-eslint-rules/if-else-block-statement": "warn",
+        "my-eslint-rules/no-console-1": "warn",
+        "my-eslint-rules/no-console-2": "warn"
+    },
+    "plugins": ["my-eslint-rules"]
+  }
